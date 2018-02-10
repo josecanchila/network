@@ -42,12 +42,10 @@ https://www.lasamarillaschile.com/
 **Venezuela**
 https://www.laguiavenezuela.com/
 
-## Media
-
-**LyricsDB**
-https://www.lyricsdb.co/
-
 ## Tools and miscellaneous
+
+**Lyrics Website**
+https://www.lyricsdb.co/
 
 **Codepen Respoitory**
 https://www.codeseek.co/
