@@ -47,7 +47,7 @@ https://www.laguiavenezuela.com/
 **Lyrics Website**
 https://www.lyricsdb.co/
 
-**Codepen Respoitory**
+**Codepen Repository**
 https://www.codeseek.co/
 
 **Icon Builder**
