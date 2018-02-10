@@ -111,7 +111,7 @@ https://chrome.google.com/webstore/detail/prorank-seo-website-analy/bdjkidhkeell
 **Envato Notifications Sales**
 https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpmbmlkelnpcjdepilkpnem
 
-## Deprecated / Abandoned
+## Deprecated / Deserted
 
 **Linux Juegos**
 http://linux-juegos.com/
