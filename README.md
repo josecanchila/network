@@ -114,7 +114,7 @@ https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpm
 ## Deprecated / Deserted
 
 **Linux Juegos**
-http://linux-juegos.com/
+https://web.archive.org/web/20120808132842/http://linux-juegos.com:80/
 
 **MegaJC** 
 https://launchpad.net/megajc
@@ -130,7 +130,7 @@ https://jodacame.wordpress.com
 https://pixabay.com/en/users/jodacame-2030956/
 
 **Nexxuz**
-http://nexxuz.com
+http://web.archive.org/web/20160316130716/https://www.nexxuz.com/
 
 **Wordpress Plugins**
 https://wordpress.org/plugins/search/jodacame/
