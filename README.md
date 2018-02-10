@@ -74,15 +74,25 @@ https://www.webas.co/
 **Libros Recomendados**
 https://librosrecomendados.co
 
+**Help Desk**
+http://support.jodacame.com
+
 ## Personal Blog
 
 **jodacame**
 https://blog.jodacame.com
 
-## Frelance Scripts
+## Freelance
 
 **Evanto Portfolio**
 https://codecanyon.net/user/jodacame/portfolio?ref=jodacame
+
+**Photography**
+https://www.shutterstock.com/g/jodacame?language=en
+
+**SRO Latino Servers (Website Developer)**
+https://srolatino-servers.com
+
 
 ## Chrome Extension
 
@@ -101,6 +111,29 @@ https://chrome.google.com/webstore/detail/prorank-seo-website-analy/bdjkidhkeell
 **Envato Notifications Sales**
 https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpmbmlkelnpcjdepilkpnem
 
+## Deprecated / Abandoned
+
+**Linux Juegos**
+http://linux-juegos.com/
+
+**MegaJC** 
+https://launchpad.net/megajc
+https://megajc.softonic.com/linux
+
+**X-Bot**
+https://www.gambas-es.org/viewtopic.php?f=5&t=271&highlight=xbot
+
+**Blog Wordpress**
+https://jodacame.wordpress.com
+
+**Photography (PixaBay)**
+https://pixabay.com/en/users/jodacame-2030956/
+
+**Nexxuz**
+http://nexxuz.com
+
+**Wordpress Plugins**
+https://wordpress.org/plugins/search/jodacame/
 
 
 
