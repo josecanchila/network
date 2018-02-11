@@ -93,6 +93,18 @@ https://www.shutterstock.com/g/jodacame?language=en
 **SRO Latino Servers (Website Developer)**
 https://www.alfa.srolatino-servers.com/
 
+## NPM Packages
+[Profile](https://www.npmjs.com/~jodacame)
+
+**[PM2](https://github.com/Unitech/pm2)
+ mongodb stast**
+https://www.npmjs.com/package/pm2-mongodb-stats
+
+**Apiseeds Lyrics**
+https://www.npmjs.com/package/apiseeds-lyrics
+
+**Echange Rate**
+https://www.npmjs.com/package/apiseeds-exchange-rate
 
 ## Chrome Extension
 
