@@ -103,7 +103,7 @@ https://www.npmjs.com/package/pm2-mongodb-stats
 **Apiseeds Lyrics**
 https://www.npmjs.com/package/apiseeds-lyrics
 
-**Echange Rate**
+**Exchange Rate**
 https://www.npmjs.com/package/apiseeds-exchange-rate
 
 ## Chrome Extension
