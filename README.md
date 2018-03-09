@@ -13,28 +13,28 @@ https://www.amarillasargentina.co/
 https://www.eldirectorio.co/
 
 **El Salvador**
-https://sv.eldirectorio.co/
+http://sv.eldirectorio.co/
 
 **Panama**
-https://pa.eldirectorio.co/
+http://pa.eldirectorio.co/
 
 **Republica Dominicana**
 https://www.amarillasdominicana.com/
 
 **Bolivia**
-https://bo.eldirectorio.co/
+http://bo.eldirectorio.co/
 
 **Costa Rica**
-https://cr.eldirectorio.co/
+http://cr.eldirectorio.co/
 
 **Guatemala**
-https://gt.eldirectorio.co/
+http://gt.eldirectorio.co/
 
 **Peru**
 https://www.laguiaperu.com/
 
 **Uruguay**
-https://uy.eldirectorio.co/
+http://uy.eldirectorio.co/
 
 **Chile**
 https://www.lasamarillaschile.com/
