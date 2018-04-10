@@ -44,6 +44,9 @@ https://www.laguiavenezuela.com/
 
 ## Tools and miscellaneous
 
+**Salario Mínimo Colombia**
+http://www.salariominimocolombia.info/
+
 **Lyrics Website**
 https://www.lyricsdb.co/
 
