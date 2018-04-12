@@ -56,6 +56,9 @@ https://www.lyricsdb.co/
 **Codepen Repository**
 https://www.codeseek.co/
 
+**Láminas Mundial**
+https://www.laminasmundial.com/
+
 **Icon Builder**
 https://www.iconseek.co/
 
