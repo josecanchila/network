@@ -44,6 +44,9 @@ https://www.laguiavenezuela.com/
 
 ## Tools and miscellaneous
 
+**Dólar en Colombia**
+https://www.dolarcolombia.co/
+
 **Salario Mínimo Colombia**
 http://www.salariominimocolombia.info/
 
