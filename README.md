@@ -19,7 +19,7 @@ https://www.codeseek.co/
 https://www.laminasmundial.com/
 
 **Icon Builder**
-https://www.iconseek.co/
+http://www.iconseek.co/
 
 **Seo Analyzer**
 https://www.prorank.co/
