@@ -1,47 +1,6 @@
 # network
 List for don't forget my sites and works
 
-## Business Directory
-
-**Mexico**
-https://www.amarillasmexico.mx/
-
-**Argentina**
-https://www.amarillasargentina.co/
-
-**Colombia**
-https://www.eldirectorio.co/
-
-**El Salvador**
-http://sv.eldirectorio.co/
-
-**Panama**
-http://pa.eldirectorio.co/
-
-**Republica Dominicana**
-https://www.amarillasdominicana.com/
-
-**Bolivia**
-http://bo.eldirectorio.co/
-
-**Costa Rica**
-http://cr.eldirectorio.co/
-
-**Guatemala**
-http://gt.eldirectorio.co/
-
-**Peru**
-https://www.laguiaperu.com/
-
-**Uruguay**
-http://uy.eldirectorio.co/
-
-**Chile**
-https://www.lasamarillaschile.com/
-
-**Venezuela**
-https://www.laguiavenezuela.com/
-
 ## Tools and miscellaneous
 
 **Dólar en Colombia**
@@ -85,6 +44,48 @@ https://librosrecomendados.co
 
 **Help Desk**
 http://support.jodacame.com
+
+## Business Directory
+
+**Mexico**
+https://www.amarillasmexico.mx/
+
+**Argentina**
+https://www.amarillasargentina.co/
+
+**Colombia**
+https://www.eldirectorio.co/
+
+**El Salvador**
+http://sv.eldirectorio.co/
+
+**Panama**
+http://pa.eldirectorio.co/
+
+**Republica Dominicana**
+https://www.amarillasdominicana.com/
+
+**Bolivia**
+http://bo.eldirectorio.co/
+
+**Costa Rica**
+http://cr.eldirectorio.co/
+
+**Guatemala**
+http://gt.eldirectorio.co/
+
+**Peru**
+https://www.laguiaperu.com/
+
+**Uruguay**
+http://uy.eldirectorio.co/
+
+**Chile**
+https://www.lasamarillaschile.com/
+
+**Venezuela**
+https://www.laguiavenezuela.com/
+
 
 ## Android 
 
