@@ -127,6 +127,9 @@ https://www.npmjs.com/package/apiseeds-exchange-rate
 
 ## Chrome Extension
 
+**Dólar Colombia**
+https://chrome.google.com/webstore/detail/d%C3%B3lar-en-colombia/kfhfekhnikgjcoigcpimlocnmedaicpe
+
 **Symply Adsense**
 https://chrome.google.com/webstore/detail/simply-adsense/njjekbblelnfbomellljimiklejagian
 
