@@ -145,6 +145,9 @@ https://chrome.google.com/webstore/detail/prorank-seo-website-analy/bdjkidhkeell
 **Envato Notifications Sales**
 https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpmbmlkelnpcjdepilkpnem
 
+**Search phrases related in Google**
+https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcepjljfmpmdaeicgoemojjb
+
 ## Deprecated / Deserted
 
 **Linux Juegos**
