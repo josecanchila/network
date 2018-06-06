@@ -95,6 +95,9 @@ https://play.google.com/store/apps/details?id=co.eldirectorio.app
 **Precio del Dólar en Colombia**
 https://play.google.com/store/apps/details?id=co.dolarcolombia.app
 
+**Control Láminas Álbum Chocolatinas Jet**
+https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumjet
+
 ## Personal Blog
 
 **jodacame**
