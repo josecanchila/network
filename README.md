@@ -121,14 +121,31 @@ https://www.alfa.srolatino-servers.com/
 ## NPM Packages
 [Profile](https://www.npmjs.com/~jodacame)
 
+
+
+**GMeta**
+
+A ridiculously lightweight metadata extractor for the given url
+
+https://www.npmjs.com/package/gmeta
+
 **[PM2](https://github.com/Unitech/pm2)
- mongodb stast**
+mongodb stast**
+
+PM2 MongoDB Stats Metrics
+
 https://www.npmjs.com/package/pm2-mongodb-stats
 
 **Apiseeds Lyrics**
+
+Is a simple module that provides lyrics from https://apiseeds.com/ directly into your js file in JSON format.
+
 https://www.npmjs.com/package/apiseeds-lyrics
 
 **Exchange Rate**
+
+Is a simple module that provides exchange rates from https://apiseeds.com/ directly into your js file in JSON format.
+
 https://www.npmjs.com/package/apiseeds-exchange-rate
 
 ## Chrome Extension
