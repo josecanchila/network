@@ -15,6 +15,9 @@ http://www.salariominimocolombia.info/
 **Lyrics Website**
 https://www.lyricsdb.co/
 
+**Letras en Español (Testing AMP For website & Spanish Domain)**
+http://letrasenespañol.com
+
 **Codepen Repository**
 https://www.codeseek.co/
 
